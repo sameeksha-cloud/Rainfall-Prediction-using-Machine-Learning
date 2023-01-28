@@ -217,6 +217,109 @@ Back End Tools:
 - Machine Learning- Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
 
 
+## Modules
+- Welcome Frame : First screen of our application developed using pyttsx3 lib. for text to speech.
+
+- Main Frame : User have the option to Login, Register or know About Us.
+- Login Frame : Only the authorized user can access the login successfully.
+- Register Frame : User can give their details to register themselves for the application.
+- About Us: User can get the information about the developers .
+
+- Menu Frame : After successful login user have the menu page with different options like-
+- Browse File:- Here, user can upload the dataset and preprocess the data ,also have option to deselect the dataset.
+- Prediction:- User can get a predicted value on the basis of uploaded dataset.
+- Weather Forecasting :- It’s add on functionality of this application in which user can get the current weather information of any country or city from all over the     world.
+- Performance graph:- It gives accuracy/precision time of ML algorithms.
+- Logout Frame:- It’s the last screen of our application through which user can exist from the frame.
+
+## Experimental Result
+
+
+ 
+ 
+ 
+ 
+  
+  
+
+
+
+  
+  
+  Accuracy
+
+
+
+  
+  
+  Time
+  Taken Score
+
+
+
+  
+ 
+ 
+  
+  Logistic
+  Regression
+
+
+
+  
+  
+  0.8377931713492036
+
+
+
+  
+  
+  1.413895606994629
+
+
+  
+ 
+ 
+  
+  Decision Tree
+
+
+
+  
+  
+  0.7842047891979325
+
+
+  
+  
+  1.3723666667938232
+
+
+  
+ 
+ 
+  
+  Random Forest
+
+
+
+  
+  
+  0.8564647139491544
+
+
+  
+  
+  24.639346837997437
+
+
+  
+ 
+
+
+
+
+
 
 
 
