@@ -1,44 +1,44 @@
 # Rainfall-Prediction-using-Machine-Learning
 An application developed using Python Libraries and Machine Learning algorithms. The target is to predict did it rain the next day or not. It also has a feature through which we get the current weather information and forecasts using API.
 
-##Introduction
+## Introduction
 - The project “Rainfall Prediction using Machine Learning “ is a software system which is capable of predicting rainfall for various locations.
 - The software has the ability to browse dataset from the system, clear the selected dataset, preprocess to visualise the dataset and then prediction on the basis of    
   dataset.
 - It is an application which gives a helping hand to the organisation to manage the data, resources, performance and also manages all the internal tasks and    
   communication for fruitful result.
   
-##Objective
+## Objective
 - The objective is to implement rainfall prediction with machine learning techniques such as logistic regression or random forest or decision tree.
 - To minimise the mathematical calculations for prediction.
 - The ultimate goal of prediction is to enable the forecaster to increase the accuracy of forecasts made routinely.
 - The objective is to improve organizational performance—more revenue, more profit, increased customer satisfaction through this application.
   Helps in determining future climate expectations.
   
-  ###Hardware Requirements
+  ### Hardware Requirements
   Hardware Requirements![image](https://user-images.githubusercontent.com/65281223/215266835-47ab770f-f73a-4793-b4e7-d57eeae11cb2.png)
 
-  ###Software Requirements
+  ### Software Requirements
    Tools Used:
--NumPy
--Pandas
--Matplotlib
--Seaborne
--Scikit Learn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborne
+-  Scikit Learn
 -PyQt5 Tools
 
 Front End Tools:
--Qt Designer
+- Qt Designer
 
 Back End Tools:
--PyCharm
--Jupyter Notebook
--MySQL
+- PyCharm
+- Jupyter Notebook
+- MySQL
 
-###Technologies Required
--Python-  Python is a dynamic, high level, free open source and interpreted programming language. It supports object-oriented programming as well as procedural oriented programming. Python’s simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. We can use python for developing desktop GUI applications, websites and web applications. The simple rules of python allow you to express concepts without writing additional code.
+### Technologies Required
+- Python-  Python is a dynamic, high level, free open source and interpreted programming language. It supports object-oriented programming as well as procedural oriented programming. Python’s simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. We can use python for developing desktop GUI applications, websites and web applications. The simple rules of python allow you to express concepts without writing additional code.
 
--Machine Learning- Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+- Machine Learning- Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
 
 
 
