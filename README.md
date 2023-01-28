@@ -16,7 +16,183 @@ An application developed using Python Libraries and Machine Learning algorithms.
   Helps in determining future climate expectations.
   
   ### Hardware Requirements
-  Hardware Requirements![image](https://user-images.githubusercontent.com/65281223/215266835-47ab770f-f73a-4793-b4e7-d57eeae11cb2.png)
+  
+
+
+ 
+ 
+ 
+ 
+  
+  
+
+
+
+  
+  
+  Minimum
+  System Requirements
+
+
+
+  
+  
+  Recommended
+  System Requirements
+
+
+
+  
+ 
+ 
+  
+  Processor
+
+
+
+  
+  
+  7th Gen Intel
+
+
+  Core i7
+
+
+
+  
+  
+  9th Gen Intel
+
+
+  Core i7 or better
+
+
+
+  
+ 
+ 
+  
+  RAM
+
+
+
+  
+  
+  4GB
+
+
+
+  
+  
+  8GB or more
+
+
+
+  
+ 
+ 
+  
+  Storage
+
+
+
+  
+  
+  256GB SSD
+
+
+
+  
+  
+  512GB or more
+
+
+
+  
+ 
+ 
+  
+  Display
+
+
+
+  
+  
+  14-inch FHD
+
+
+  (1920 X 1080)
+
+
+
+  
+  
+  15.6-inch FHD
+
+
+  IPS(1920 X 1080)
+
+
+
+  
+ 
+ 
+  
+  Graphics
+
+
+
+  
+  
+  4GB NVIDIA
+
+
+  GeForce GTX
+
+
+  1060
+
+
+
+  
+  
+  8GB NVIDIA
+
+
+  GeForce GTX
+
+
+  2070
+
+
+
+  
+
+
+
+  
+ 
+ 
+  
+  Battery
+
+
+
+  
+  
+  Up to 2 hours
+
+
+
+  
+  
+  Up to 5 hours
+
+
+
+  
+ 
+
 
   ### Software Requirements
    Tools Used:
